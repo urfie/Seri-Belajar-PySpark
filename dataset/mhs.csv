@@ -1,7 +1,7 @@
-,nama,kode_jurusan,nilai1,nilai2,nilai3
-0,Agus,F,100,150,150
-1,Windy,F,200,150,180
-2,Budi,B,200,100,150
-3,Dina,F,150,150,130
-4,Bayu,F,50,150,100
-5,Dedi,B,50,100,100
+nama,kode_jurusan,nilai1,nilai2,nilai3
+Agus,F,100,150,150
+Windy,F,200,150,180
+Budi,B,200,100,150
+Dina,F,150,150,130
+Bayu,F,50,150,100
+Dedi,B,50,100,100
