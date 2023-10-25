@@ -4,7 +4,7 @@
     "city": "New York" 
   },
   { 
-    "name": 'Emily', 
+    name: 'Emily', 
     "age": 19, 
     "city": "Atlanta" 
   },
