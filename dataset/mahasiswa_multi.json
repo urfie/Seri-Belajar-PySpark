@@ -1,0 +1,18 @@
+[
+  { 
+    "nama": "Agus", 
+    "jurusan": "Biologi", 
+	"nilai":[{"nilai1": 100},{"nilai2": 150}]
+ 
+  },
+  { 
+    "nama": "Dina", 
+    "jurusan": "Biologi", 
+    "nilai":[{"nilai1": 150},{"nilai2": 120}]
+  },
+  { 
+    "nama": "Budi", 
+    "jurusan": "Fisika", 
+    "nilai":[{"nilai1": 130},{"nilai2": 180}]
+  }
+]
