@@ -1,8 +1,8 @@
 [
   { 
-    "nama": "Agus", 
-    "jurusan": "Biologi", 
-	"nilai":[{"nilai1": 100},{"nilai2": 150}]
+	  "nama": "Agus", 
+	  "jurusan": "Biologi",
+	  "nilai":[{"nilai1": 100},{"nilai2": 150}]
  
   },
   { 
