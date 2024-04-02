@@ -2,8 +2,8 @@
   { 
 	"nama": "Agus", 
 	"jurusan": "Informatika",
-	"matakuliah": [["Konsep Pemrograman","Kalkulus I",null],
-		["Sistem Digital","Aljabar Linier","Basis Data"]]
+	"matakuliah": [["Konsep Pemrograman","Kalkulus I","Fisika"],
+		["Sistem Digital","Aljabar Linier","Basis Data"],null]
   },
   { 
 	"nama": "Dina", 
