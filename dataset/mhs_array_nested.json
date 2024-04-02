@@ -8,7 +8,7 @@
   { 
 	"nama": "Dina", 
 	"jurusan": "Informatika", 
-	"matakuliah": [["Konsep Pemrograman","Kalkulus I","Fisika"],
+	"matakuliah": [["Konsep Pemrograman","Kalkulus I","Fisika"],null,
 		["Sistem Digital","Aljabar Linier","Basis Data"]]
   },
   { 
